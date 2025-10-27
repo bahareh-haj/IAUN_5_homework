@@ -7,4 +7,4 @@ if len(number) ==2 and number.isdigit():
     print(f"first digit to the power of second digit : {result1}")
     print(f"secend digit to the power of first digit : {result2}")
 else :
-    print("pleas enter a true number (your age)")
+    print("pleas enter a true number (2 digit)")
